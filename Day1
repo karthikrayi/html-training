@@ -7,3 +7,15 @@
      <!-- Initial scale attribute is used to keep the website opening in any screen with 100% zoom  -->
     <title>Document</title> <!-- Title tag is used to display the website name in the tabs of browser -->
 </head>
+<body> <!-- This is used for showing or displaying content on the website whatever we want to show  -->
+    <h1>This is my first html program</h1> <!-- h1 tag is used to display the heading in larger size -->
+</body>
+</html> <!--Telling the browser Html document is ended here-->
+
+<!-- History of Html 
+
+ * It was introduced in Tim-Bernislee in 1991 HTML 1.0
+ * Html 2.0 introduced in 1995     -web design with features like paragraphs, headings, and lists.
+ * Html 3.2 introduced in 1997     -support for Cascading Style Sheets (CSS), and Supported frame tags
+ * Html 4.01 introduced in 1999    
+ * Html 5.0 introduced in 2014     -Introduced new semantic elements like <header>, <footer>, <article>, and <section> -->
